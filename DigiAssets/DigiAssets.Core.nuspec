@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>DigiAssets.Core</id>
+    <version>$version$</version>
+    <description>.NET Core wrapper for the DigiAssets RESTful API.</description>
+    <authors>Eric H. den Boer</authors>
+    <owners>EUCX B.V.</owners>
+    <projectUrl>https://github.com/EUCX/digiassets-core</projectUrl>
+    <license type="expression">MIT</license>
+    <dependencies>
+      <group targetFramework="netcoreapp2.2">
+        <dependency id="Newtonsoft.Json" version="12.0.2" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
