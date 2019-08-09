@@ -5,7 +5,7 @@ Simple .NET Core wrapper for DigiAssets RESTful API
 Install the NuGet package: `Install-Package DigiAssets.Core`
 
 ## Usage
-```
+```cs
 try
 {
     DigiAssets digiAssets = new DigiAssets("https://api.digiassets.net/v3");
