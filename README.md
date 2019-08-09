@@ -30,3 +30,7 @@ catch (Exception ex)
     // handle exception
 }
 ```
+
+## More information
+[DigiByte Protocol Specifications](https://github.com/DigiByte-Core/DigiAssets-Protocol-Specifications/wiki)
+[DigiByte Protocol Specifications: getting started](https://github.com/DigiByte-Core/DigiAssets-Protocol-Specifications/wiki/Getting%20Started)
